@@ -7,14 +7,14 @@ Como professor de matemática, aprendi que toda equação tem uma solução, e a
 
 <a href="https://www.linkedin.com/in/andrecapoano/">
   <img 
-    src="https://img.shields.io/badge/LinkedIn-andrecapoano-blue?style=flat-square&logo=linkedin" 
+    src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" 
     alt="LinkedIn" 
     style="transform: scale(1.2); transform-origin: left; margin-right: 30px;" 
   />
 </a>
 <a href="mailto:andre_capuano@hotmail.com">
   <img 
-    src="https://img.shields.io/badge/Email-andre__capuano@hotmail.com-6A994E?style=flat-square&logo=microsoftoutlook&logoColor=white" 
+    src="https://img.shields.io/badge/Outlook-6A994E?style=for-the-badge&logo=microsoftoutlook&logoColor=white" 
     alt="Email" 
     style="transform: scale(1.2); transform-origin: left;" 
   />
