@@ -52,11 +52,3 @@ Como professor de matemática, aprendi que toda equação tem uma solução, e a
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrecapoano&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=9" 
   />
 </p>
-
-<br clear="both" />
-
----
-
-### ☕ Olhando além do código
-
-> 🎓 "O mesmo raciocínio que resolve uma equação pode resolver um bug. A lógica é universal — só muda a linguagem."
