@@ -37,8 +37,8 @@ Como professor de matemática, aprendi que toda equação tem uma solução, e a
 ### 📈 GitHub Estatísticas
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrecapoano&show_icons=true&theme=tokyonight&locale=pt-br" alt="estatísticas GitHub" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrecapoano&layout=compact&theme=tokyonight&locale=pt-br" alt="linguagens mais usadas" />
+  <img height="180em" style="vertical-align: top;" src="https://github-readme-stats.vercel.app/api?username=andrecapoano&show_icons=true&theme=tokyonight&locale=pt-br" alt="Estatísticas" />
+  <img height="150em" style="vertical-align: top;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrecapoano&layout=compact&theme=tokyonight&locale=pt-br" alt="Linguagens" />
 </p>
 
 ---
