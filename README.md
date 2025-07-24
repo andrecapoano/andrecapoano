@@ -36,16 +36,24 @@ Como professor de matemática, aprendi que toda equação tem uma solução, e a
 
 ### 📈 Estatísticas
 
-<div align="left" style="display: flex; justify-content: left; gap: 10px; flex-wrap: wrap; align-items: flex-start;">  
+<p>
   <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=andrecapoano&show_icons=true&theme=tokyonight&locale=pt-br" 
-    alt="GitHub Stats"
-  />  
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrecapoano&layout=compact&theme=tokyonight&locale=pt-br" 
-    alt="Top Langs"
   />
-</div>
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrecapoano&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=9" 
+  />
+</p>
+
+<br clear="both" />
 
 ---
 
