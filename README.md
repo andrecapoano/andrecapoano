@@ -42,13 +42,13 @@ Como professor de matemática, aprendi que toda equação tem uma solução, e a
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=andrecapoano&show_icons=true&theme=tokyonight&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=andrecapoano&show_icons=true&rank_icon=github&theme=github_dark&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrecapoano&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrecapoano&theme=github_dark&layout=compact&custom_title=Linguagens&langs_count=9" 
   />
 </p>
