@@ -22,7 +22,7 @@ Como professor de matemática, aprendi que toda equação tem uma solução, e a
 
 ---
 
-### 🧰 Tecnologias usadas no dia a dia
+### 🧰 Linguagens e Tecnologias
 
 [![C#](https://img.shields.io/badge/C%23-68217A?style=flat-square&logo=csharp&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)
 [![.NET](https://img.shields.io/badge/.NET-0078D4?style=flat-square&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
@@ -34,12 +34,18 @@ Como professor de matemática, aprendi que toda equação tem uma solução, e a
 
 ---
 
-### 📈 GitHub Estatísticas
+### 📈 Estatísticas
 
-<p align="left">
-  <img height="180em" style="vertical-align: top;" src="https://github-readme-stats.vercel.app/api?username=andrecapoano&show_icons=true&theme=tokyonight&locale=pt-br" alt="Estatísticas" />
-  <img height="150em" style="vertical-align: top;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrecapoano&layout=compact&theme=tokyonight&locale=pt-br" alt="Linguagens" />
-</p>
+<div align="left" style="display: flex; justify-content: left; gap: 10px; flex-wrap: wrap; align-items: flex-start;">  
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=andrecapoano&show_icons=true&theme=tokyonight&locale=pt-br" 
+    alt="GitHub Stats"
+  />  
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrecapoano&layout=compact&theme=tokyonight&locale=pt-br" 
+    alt="Top Langs"
+  />
+</div>
 
 ---
 
